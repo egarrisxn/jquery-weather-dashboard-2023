@@ -8,6 +8,8 @@ _Initially created in April of 2023 as a mini-project for my UCF Full-Stack Web 
 
 This weather application shows you current weather, along with a 5 day forecast. The searches is cached for easy viewing access if you need to revisit. Stay cool out there!
 
+![Screenshot 2024-04-19 151552](https://github.com/EGARRISXN/weather-dashboard/assets/126130230/e66a150f-db40-4717-b4f6-a9073315ae73)
+
 ## Technologies
 
 - HTML5: Markup language for structuring the web page.
