@@ -17,7 +17,7 @@ Stay ahead of the weather with our user-friendly weather dashboard! This applica
 - JavaScript (jQuery): Interactivity and dynamic behavior.
 - Day.js: Date and time manipulation.
 - Local Storage API: Store data locally within the browser for enhanced user experience.
-- 
+  
 ## Installation
 
 To install this project for local development:
