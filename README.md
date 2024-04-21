@@ -2,13 +2,23 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-_Initially created in April of 2023 for my UCF Full-Stack Web Development Bootcamp._
+_Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
 ## Description
 
 Stay ahead of the weather with our user-friendly weather dashboard! This application offers real-time updates on current weather conditions and a 5-day forecast, ensuring you're always prepared for whatever Mother Nature throws your way. With cached search history for easy access, you can quickly revisit previous searches without any hassle. Stay cool out there!
 
 ![Screenshot 2024-04-19 151552](https://github.com/EGARRISXN/weather-dashboard/assets/126130230/e66a150f-db40-4717-b4f6-a9073315ae73)
+
+## Table of Contents
+
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [To-Do](#to-do)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+- [Questions](#questions)
 
 ## Technologies
 
@@ -17,7 +27,7 @@ Stay ahead of the weather with our user-friendly weather dashboard! This applica
 - JavaScript (jQuery): Interactivity and dynamic behavior.
 - Day.js: Date and time manipulation.
 - Local Storage API: Store data locally within the browser for enhanced user experience.
-  
+
 ## Installation
 
 To install this project for local development:
@@ -32,7 +42,7 @@ To use the application:
 
 1. Open `index.html` file in a web browser.
 2. Input the city of your choice.
-3. Use cached searches for instant viewing of cities. 
+3. Use cached searches for instant viewing of cities.
 
 ## To-Do
 
