@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/weather-dashboard)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
@@ -10,23 +10,14 @@ Stay ahead of the weather with our user-friendly weather dashboard! This applica
 
 ![Screenshot 2024-04-19 151552](https://github.com/EGARRISXN/weather-dashboard/assets/126130230/e66a150f-db40-4717-b4f6-a9073315ae73)
 
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [To-Do](#to-do)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Questions](#questions)
-
 ## Technologies
 
-- HTML5: Markup language for structuring the web page.
-- CSS3 (Bootstrap): Styling and layout.
-- JavaScript (jQuery): Interactivity and dynamic behavior.
-- Day.js: Date and time manipulation.
-- Local Storage API: Store data locally within the browser for enhanced user experience.
+- **Node.js**: Javascript runtime environment.
+- **HTML5**: Markup language for structuring the web page.
+- **CSS3 (Bootstrap)**: Styling and layout.
+- **JavaScript (jQuery)**: Interactivity and dynamic behavior.
+- **Day.js**: Date and time manipulation.
+- **Local Storage**: Store data locally within the browser for enhanced user experience.
 
 ## Installation
 
@@ -50,10 +41,6 @@ To use the application:
 - Align icons alongside all dates.
 - Refine CSS and application structure.
 - Enhance accessibility with updated labels.
-
-## Acknowledgements
-
-A big shoutout to my supportive classmates whose collaboration and assistance made this project a success!
 
 ## License
 
