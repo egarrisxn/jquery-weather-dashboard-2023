@@ -8,7 +8,7 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 Stay ahead of the weather with our user-friendly weather dashboard! This application offers real-time updates on current weather conditions and a 5-day forecast, ensuring you're always prepared for whatever Mother Nature throws your way. With cached search history for easy access, you can quickly revisit previous searches without any hassle. Stay cool out there!
 
-![Screenshot 2024-04-19 151552](https://github.com/EGARRISXN/weather-dashboard/assets/126130230/e66a150f-db40-4717-b4f6-a9073315ae73)
+![weatherdashboard](https://github.com/egarrisxn/weather-dashboard/assets/126130230/a6f3ad6e-1f93-40b3-9088-67bf8ca6ea3b)
 
 ## Technologies
 
