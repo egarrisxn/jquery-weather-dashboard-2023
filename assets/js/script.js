@@ -72,8 +72,8 @@ $(document).ready(function () {
     forecastContainer.empty();
     for (let i = 1; i <= 5; i++) {
       const card = $("<div>")
-        .addClass("card rounded-0 me-4 bg-dark text-light mb-3 pl-3")
-        .css("width", "10.3rem");
+        .addClass("card border-2 rounded-2 border-dark me-3 text-light mb-4")
+        .css("width", "11rem");
       const cardBody = $("<div>").addClass("card-body").attr("id", `card${i}`);
       const day = $("<div>").addClass("day").text(formatDate(data.list[i].dt));
       const icon = $("<img>")
