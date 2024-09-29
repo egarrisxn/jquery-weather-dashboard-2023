@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/weather-dashboard)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/weather-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/weather-dashboard)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
