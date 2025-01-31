@@ -1,4 +1,4 @@
-# Weather Dashboard
+# jQuery Weather Dashboard 2023
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/jquery-weather-dashboard-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/jquery-weather-dashboard-2023)
 
