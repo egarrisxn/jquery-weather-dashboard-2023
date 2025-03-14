@@ -1,14 +1,14 @@
 # jQuery Weather Dashboard 2023
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/jquery-weather-dashboard-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/jquery-weather-dashboard-2023)
-
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
+
+![weather1](https://github.com/egarrisxn/weather-dashboard/assets/126130230/37767232-0bf5-4b34-9314-bcf1977b53e3)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/jquery-weather-dashboard-2023) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/jquery-weather-dashboard-2023)
 
 ## Description
 
 Stay ahead of the weather with our user-friendly weather dashboard! This application offers real-time updates on current weather conditions and a 5-day forecast, ensuring you're always prepared for whatever Mother Nature throws your way. With cached search history for easy access, you can quickly revisit previous searches without any hassle. Stay cool out there!
-
-![weather1](https://github.com/egarrisxn/weather-dashboard/assets/126130230/37767232-0bf5-4b34-9314-bcf1977b53e3)
 
 ## Technologies
 
